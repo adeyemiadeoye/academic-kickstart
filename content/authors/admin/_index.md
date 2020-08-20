@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Adeyemi Damilare Adeoye
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Machine Learning Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: African Master's in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS), Rwanda
+  url: "www.aimsammi.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: MSc in Machine Intelligence
-    institution: African MAster's in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS), Rwanda
+    institution: African Master's in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS), Rwanda
     year: 2020
   - course: MSc in Mathematical Sciences
     institution: African Institute for Mathematical Sciences (AIMS), Cameroon
